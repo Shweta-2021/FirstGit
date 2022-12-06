@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-28T18:42:39 IST" name="Default suite" finished-at="2022-11-28T18:42:51 IST" duration-ms="11866">
+    <groups>
+    </groups>
+    <test started-at="2022-11-28T18:42:39 IST" name="Default test" finished-at="2022-11-28T18:42:51 IST" duration-ms="11866">
+      <class name="testcases.CreatenewbuttonTC">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.CreatenewbuttonTC@7e5afaa6]" started-at="2022-11-28T18:42:39 IST" name="setup" finished-at="2022-11-28T18:42:45 IST" duration-ms="5425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logincheck()[pri:0, instance:testcases.CreatenewbuttonTC@7e5afaa6]" started-at="2022-11-28T18:42:45 IST" name="logincheck" finished-at="2022-11-28T18:42:51 IST" duration-ms="6302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logincheck -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.CreatenewbuttonTC@7e5afaa6]" started-at="2022-11-28T18:42:51 IST" name="tearDown" finished-at="2022-11-28T18:42:51 IST" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.CreatenewbuttonTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
